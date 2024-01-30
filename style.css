@@ -5,8 +5,15 @@ body
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
+}
+
+.contentwrapper
+{
     background-image: url("background.png");
     background-position: center;
+    margin: 0;
+    width: 99vw;
+    height: 90vh;
 }
 
 .navbar 
@@ -41,5 +48,5 @@ body
 
 .logo img 
 {
-    width: 8vh;
+    height: 5vh;
 }
