@@ -1,0 +1,45 @@
+body 
+{
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    background-image: url("background.png");
+    background-position: center;
+}
+
+.navbar 
+{
+    background-color: #272727;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar a
+ {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+.content
+{
+    padding: 20px;
+}
+
+.footer 
+{
+    background-color: #272727;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.logo img 
+{
+    width: 8vh;
+}
