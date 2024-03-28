@@ -12,8 +12,8 @@ body
     background-image: url("background.png");
     background-position: center;
     margin: 0;
-    width: 99vw;
-    height: 90vh;
+    width: 100vw;
+    height: 100vh;
 }
 
 .navbar 
@@ -43,7 +43,7 @@ body
     background-color: #272727;
     color: white;
     text-align: center;
-    padding: 10px 20px;
+    padding: 10px 20px 10px;
 }
 
 .logo img 
